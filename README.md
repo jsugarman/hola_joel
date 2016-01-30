@@ -1,1 +1,1 @@
-My first ruby gem init! hey
+My first ruby gem init!
